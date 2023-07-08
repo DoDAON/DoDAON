@@ -10,11 +10,12 @@
   And, Creating an algorithmic system using JavaScript. (ever since 2023/05/24)
 </div>
 
-## Language
+## Skill
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" >
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/Skript-62B47A?style=flat&logo=minecraft&logoColor=white" >
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" >
 </div>
 
 <div align="center">

@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" >
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/Skript-62B47A?style=flat&logo=minecraft&logoColor=white" >
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" >
+  
 </div>
 
 <div align="center">
@@ -26,12 +26,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" >
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" >
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" >
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" >
+  <br/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" >
+  <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=intellijidea&logoColor=white" >
 </div>
 
 ## IDE
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" >
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" >
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" >
 </div>
 
 ## Engine

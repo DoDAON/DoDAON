@@ -30,6 +30,8 @@
   <br/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" >
   <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=intellijidea&logoColor=white" >
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" >
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" >
 </div>
 
 ## IDE

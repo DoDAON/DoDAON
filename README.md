@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" >
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" >
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" >
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" >
 </div>
 
 ## Engine

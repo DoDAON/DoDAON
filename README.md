@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" >
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/Skript-62B47A?style=flat&logo=minecraft&logoColor=white" >
-  
+  <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=intellijidea&logoColor=white" >
 </div>
 
 <div align="center">
@@ -28,10 +28,18 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" >
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" >
   <br/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" >
-  <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=intellijidea&logoColor=white" >
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" >
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" >
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" >
+</div>
+<div align="center">
+
+  ### Not Started
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" >
+  <img src="https://img.shields.io/badge/C Sharp-512BD4?style=flat&logo=csharp&logoColor=white" >
+ 
 </div>
 
 ## IDE
@@ -44,6 +52,8 @@
 ## Engine
 <div align="center">
   <img src="https://img.shields.io/badge/Cocos2d_x-55C2E1?style=flat&logo=cocos&logoColor=white" >
+  <img src="https://img.shields.io/badge/Bevy-FFFFFF?style=flat&logo=bevy&logoColor=white" >
+ 
 </div>
 
 <br/><br/>

@@ -4,7 +4,7 @@
 
 # DoDAON
 <div align="center">
-  Hi It's Danny, a college student.<br/>
+  Hi <br/>
   Now, I'm the development team leader with YUMC using Minecraft Skript Language.<br/>
   I am studying for a single game project<br/>
   And, Creating an algorithmic system using JavaScript. (ever since 2023/05/24)

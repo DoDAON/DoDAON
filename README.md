@@ -6,8 +6,8 @@
 <div align="center">
   Hi <br/>
   Now, I'm the development team leader with YUMC using Minecraft Skript Language.<br/>
-  I am studying for a single game project<br/>
-  And, Creating an algorithmic system using JavaScript. (ever since 2023/05/24)
+  And I am interested in web development.<br/>
+  
 </div>
 
 ## Skill
@@ -34,12 +34,6 @@
 </div>
 <div align="center">
 
-  ### Not Started
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" >
-  <img src="https://img.shields.io/badge/C Sharp-512BD4?style=flat&logo=csharp&logoColor=white" >
- 
 </div>
 
 ## IDE
@@ -51,8 +45,7 @@
 
 ## Engine
 <div align="center">
-  <img src="https://img.shields.io/badge/Cocos2d_x-55C2E1?style=flat&logo=cocos&logoColor=white" >
-  <img src="https://img.shields.io/badge/Bevy-FFFFFF?style=flat&logo=bevy&logoColor=white" >
+  
  
 </div>
 

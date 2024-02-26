@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm DoDAON, a growing developer from Korea</h1>
 <h3 align="left">I'm working with a mindset of always wanting to explore and change.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ekdhs402.notion.site/b9d4f4c4564c439cb8e361ea97845aaa?pvs=4](https://ekdhs402.notion.site/b9d4f4c4564c439cb8e361ea97845aaa?pvs=4)
+- 👨‍💻 All of my projects are available at [https://ekdhs402.notion.site/b9d4f4c4564c439cb8e361ea97845aaa?pvs=4](https://ekdhs402.notion.site/b9d4f4c4564c439cb8e361ea97845aaa?pvs=4){:target="_blank"}
 
-- 📝 I regularly write articles on [velog.io/@ekdhs402](velog.io/@ekdhs402)
+- 📝 I regularly write articles on [velog.io/@ekdhs402](velog.io/@ekdhs402){:target="_blank"}
 
 - 💬 Ask me about **C/C++, React and Svelte**
 

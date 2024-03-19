@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [Velog Page](velog.io/@ekdhs402)
 
-- 💬 Ask me about **C/C++, React and Svelte**
+- 💬 Ask me about **C/C++, Svelte and Skript**
 
 - 📫 How to reach me **ekdhs402@naver.com**
 

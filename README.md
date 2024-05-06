@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [Notion Page](https://ekdhs402.notion.site/b9d4f4c4564c439cb8e361ea97845aaa?pvs=4)
 
-- 📝 I regularly write articles on [Velog Page](velog.io/@ekdhs402)
+- 📝 I regularly write articles on [Velog Page](https://velog.io/@ekdhs402)
 
 - 💬 Ask me about **C/C++, Svelte and Skript**
 

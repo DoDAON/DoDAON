@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hello, It's DoDAON 👋
 
-<!--
-**DoDAON/DoDAON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Web Fullstack Developer
+- Yeungnam University : Korean Language & Literature (Major) / Computer Science and Engineering (Double Major)
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+Languages:      JavaScript, TypeScript, Tailwind CSS
+Frontend:       Svelte
+Backend:        Svelte Kit
+Database:       MySQL, SQLite
+Version Control: Git, GitHub
+```
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DoDAON&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="47%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoDAON&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width="35%" />
+  </a>
+</div>
+
+### 🔗 Contact & Links
+
+<div align="center">
+  <p align="center">
+    <a href="#">
+      <img src="https://img.shields.io/badge/-Tech%20Blog-20232A?style=flat-square&logo=blogger&logoColor=white" alt="Tech Blog Badge" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
+    </a>
+    <a href="mailto:devdaon500@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
+    <a href="mailto:devdaon500@gmail.com">
+      <img src="https://img.shields.io/badge/devdaon500@gmail.com-EA4335?style=flat-square&logo=clipboard&logoColor=white" alt="Copy Email" />
+    </a>
+  </p>
+</div> 

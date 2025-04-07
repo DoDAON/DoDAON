@@ -28,14 +28,11 @@ Version Control: Git, GitHub
 
 <div align="center">
   <p align="center">
-    <a href="#">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/-Tech%20Blog-20232A?style=flat-square&logo=blogger&logoColor=white" alt="Tech Blog Badge" />
     </a>
-    <a href="#">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
-    </a>
-    <a href="mailto:devdaon500@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
     </a>
     <a href="mailto:devdaon500@gmail.com">
       <img src="https://img.shields.io/badge/devdaon500@gmail.com-EA4335?style=flat-square&logo=clipboard&logoColor=white" alt="Copy Email" />

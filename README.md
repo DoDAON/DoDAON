@@ -9,6 +9,7 @@
 Languages:      JavaScript, TypeScript, Tailwind CSS
 Frontend:       Svelte
 Backend:        Svelte Kit
+Game:           Minecraft Skript
 Database:       MySQL, SQLite
 Version Control: Git, GitHub
 ```

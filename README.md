@@ -6,12 +6,10 @@
 ### 🛠 Tech Stack
 
 ```yaml
-Languages:      JavaScript, TypeScript, Tailwind CSS
-Frontend:       Svelte
-Backend:        Svelte Kit
+Languages:      JavaScript, TypeScript
+Framework:      Svelte Kit
 Game:           Minecraft Skript
 Database:       MySQL, SQLite
-Version Control: Git, GitHub
 ```
 
 ### 📊 GitHub Stats

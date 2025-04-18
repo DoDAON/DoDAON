@@ -6,10 +6,10 @@
 ### 🛠 Tech Stack
 
 ```yaml
-Languages:      JavaScript, TypeScript
-Framework:      Svelte Kit
-Game:           Minecraft Skript
-Database:       MySQL, SQLite
+Languages:    JavaScript, TypeScript
+Framework:    Svelte Kit
+Game:         Minecraft Skript
+Database:     MySQL, SQLite
 ```
 
 ### 📊 GitHub Stats

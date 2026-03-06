@@ -1,6 +1,6 @@
-## Hello, It's DoDAON 👋
+## Hello, It's DoDAON
 
-### 👨‍💻 Web Fullstack Developer
+### Web Fullstack Developer
 
 - Yeungnam University :
   - Korean Language & Literature (Major)
@@ -9,14 +9,14 @@
 ### 🛠 Tech Stack
 
 ```yaml
-Languages: TypeScript
-Framework: Svelte Kit, Next.js
+Languages: TypeScript, Go
+Framework: Next.js, NestJS
 Game: Minecraft Skript
 ```
 
 <br/>
 
-### 🔗 Contact & Links
+### Contact & Links
 
 <div align="left">
   <p align="left">

@@ -16,6 +16,27 @@ Game: Minecraft Skript
 
 <br/>
 
+### Projects
+
+#### Tonari Mate
+
+- A platform for organizing and managing university group activities.
+- Used by YUMC, a student club at Yeungnam University.
+
+**1.0** · Mar 23 – Jun 14, 2026  
+[Source Code](https://github.com/DoDAON/TonariMate)
+
+**2.0** · Sep 21, 2026 –  
+[Website](https://tonarimate.my/)
+
+#### YUMCBOT
+
+*Jul 15 – Aug 1, 2026*
+
+- A Discord bot for running minigames of deception and strategy in a student club.
+
+[Source Code](https://github.com/manduk56-hub/YUMCBOT)
+
 ### Contact & Links
 
 <div align="left">

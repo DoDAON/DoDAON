@@ -1,24 +1,29 @@
-## Hello, It's DoDAON
+## Web Fullstack & Security Developer
 
-### Web Fullstack Developer
+Minjae Kim/DoDAON
 
 - Yeungnam University :
   - Korean Language & Literature (Major)
   - Computer Science and Engineering (Double Major)
 
-### 🛠 Tech Stack
+- YUMC · Yeungnam University MineCraft : *Mar 2023 – Aug 2025*
+  - Club President & Lead Administrator of the university's Minecraft server.
+  - Managed server operations, created in-game content, and developed the club website.
+
+<br/>
+
+## Tech Stack
 
 ```yaml
-Languages: TypeScript, Go
-Framework: Next.js, NestJS
-Game: Minecraft Skript
+Languages: C/C++, Go, TypeScript
+Game: Minecraft Skript, Godot
 ```
 
 <br/>
 
-### Projects
+## Projects
 
-#### Tonari Mate
+### Tonari Mate
 
 - A platform for organizing and managing university group activities.
 - Used by YUMC, a student club at Yeungnam University.
@@ -29,21 +34,24 @@ Game: Minecraft Skript
 **2.0** · Sep 21, 2026 –  
 [Website](https://tonarimate.my/)
 
-#### YUMCBOT
+---
+
+### YUMCBOT
+
+- A Discord bot for running minigames of deception and strategy in YUMC, a student club at Yeungnam University.
 
 *Jul 15 – Aug 1, 2026*
 
-- A Discord bot for running minigames of deception and strategy in a student club.
-
 [Source Code](https://github.com/manduk56-hub/YUMCBOT)
 
-### Contact & Links
+<br/>
+
+---
+
+## Contact & Links
 
 <div align="left">
   <p align="left">
-    <a href="https://ekdhs402.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Tech%20Blog-20232A?style=flat-square&logo=blogger&logoColor=white" alt="Tech Blog Badge" />
-    </a>
     <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
     </a>
